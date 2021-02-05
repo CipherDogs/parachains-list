@@ -12,4 +12,7 @@
 
 ## Smart contracts
 
+- [Plasm Network](https://www.plasmnet.io/) - Plasm Network is a multi-virtual machines scalable smart contract platform on Polkadot supporting cutting edge layer 2 like Rollups.
+- [Moonbeam](https://acala.network/) - Expand to new chains. Powered by Moonbeam, an Ethereum-compatible smart contract parachain on Polkadot.
+
 ## Social networks
