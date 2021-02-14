@@ -4,6 +4,7 @@
 
 - [Cloud Technology](#cloud-technology)
 - [DeFi](#defi)
+- [Oracle](#oracle)
 - [Smart contracts](#smart-contracts)
 - [Social networks](#social-networks)
 
@@ -15,6 +16,10 @@
 
 - [Acala network](https://acala.network/) - A decentralized finance hub and stablecoin platform powering cross blockchain liquidity and applications.
 - [HydraDX](https://hydradx.io/) - Cross-chain liquidity protocol built on substrate.
+
+## Oracle
+
+- [Kylin Network](https://kylin.network/) - Building a Cross-chain Platform Powering the Data Economy on Polkadot.
 
 ## Smart contracts
 
