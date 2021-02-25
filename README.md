@@ -5,6 +5,7 @@
 - [Cloud Technology](#cloud-technology)
 - [DeFi](#defi)
 - [Oracle](#oracle)
+- [Privacy](#privacy)
 - [Smart contracts](#smart-contracts)
 - [Social networks](#social-networks)
 
@@ -20,6 +21,9 @@
 ## Oracle
 
 - [Kylin Network](https://kylin.network/) - Building a Cross-chain Platform Powering the Data Economy on Polkadot.
+
+## Privacy
+- [Phala Network](https://phala.network/) - Blockchain Confidentiality by Trusted Computing.
 
 ## Smart contracts
 
